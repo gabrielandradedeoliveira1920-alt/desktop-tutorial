@@ -1,6 +1,5 @@
-1 | # Welcome to GitHub Desktop!
-2 | 
-3 | This is your README. READMEs are where you can communicate what your project is and how to use it.
-4 | 
-5 | 
-6 | Gabriel Andrade de Oliveira
+Estudante de Desenvolvimento Front-end, atualmente cursando a formação na Cruzeiro do Sul Virtual, com foco na construção de interfaces web modernas e no domínio dos fundamentos de programação.
+Na disciplina de Algoritmos e Pensamento Computacional, venho trabalhando com lógica de programação em C — estruturas condicionais, laços de repetição e resolução de problemas —, base essencial para escrever código organizado e eficiente em qualquer linguagem. Em paralelo, estudo CSS3 aplicado à construção de interfaces web modernas e tenho contato acadêmico com banco de dados (SQL, MySQL), unindo lógica, front-end e dados na prática.
+Meu momento atual é de aprofundamento: antes de buscar minha primeira oportunidade na área, priorizo consolidar fundamentos sólidos de lógica, HTML/CSS, SQL e boas práticas de desenvolvimento, construindo um portfólio de projetos que reflita esse aprendizado.
+📍 Aberto a conexões com profissionais e estudantes de tecnologia, trocas sobre front-end, algoritmos e banco de dados, e oportunidades de aprendizado.
+📫 Contato: E-MAIL[Gabrielandradedeoliveira1920@Gmail.com] GITHUB[.com/gabrielandradedeoliveira1920-alt]
